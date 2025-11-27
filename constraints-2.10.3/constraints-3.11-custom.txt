@@ -499,15 +499,6 @@ openlineage-python==1.23.0
 openlineage_sql==1.23.0
 openpyxl==3.1.5
 opensearch-py==2.7.1
-opentelemetry-api==1.27.0
-opentelemetry-exporter-otlp-proto-common==1.27.0
-opentelemetry-exporter-otlp-proto-grpc==1.27.0
-opentelemetry-exporter-otlp-proto-http==1.27.0
-opentelemetry-exporter-otlp==1.27.0
-opentelemetry-exporter-prometheus==0.48b0
-opentelemetry-proto==1.27.0
-opentelemetry-sdk==1.27.0
-opentelemetry-semantic-conventions==0.48b0
 opsgenie-sdk==2.1.5
 oracledb==2.4.1
 ordered-set==4.1.0
@@ -547,7 +538,6 @@ prometheus_client==0.21.0
 prompt_toolkit==3.0.48
 propcache==0.2.0
 proto-plus==1.25.0
-protobuf==4.25.5
 psutil==6.1.0
 psycopg2-binary==2.9.10
 ptyprocess==0.7.0
@@ -563,8 +553,6 @@ pyasn1_modules==0.4.0
 pycountry==24.6.1
 pycparser==2.22
 pycryptodome==3.21.0
-pydantic==2.9.2
-pydantic_core==2.23.4
 pydata-google-auth==1.8.2
 pydot==1.4.2
 pydruid==0.6.9
